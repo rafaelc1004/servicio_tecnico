@@ -11,6 +11,10 @@ public class Productos {
         this.id = id;
         this.nombreProducto = nombreProducto;
     }
+    
+    public Productos(){
+        
+    }
 
     public int getId() {
         return id;
